@@ -1,0 +1,120 @@
+[INFO ] 2024-12-07 19:36:58.253 [main] StepDef - setup executed
+[INFO ] 2024-12-07 19:36:58.353 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 19:37:08.205 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 19:37:11.048 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 19:37:14.531 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 19:37:20.546 [main] StepDef - click login executed
+[INFO ] 2024-12-07 19:37:27.702 [main] StepDef - setup executed
+[INFO ] 2024-12-07 19:37:27.708 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 19:37:31.706 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 19:37:33.469 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 19:37:36.733 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 19:37:43.442 [main] StepDef - click login executed
+[INFO ] 2024-12-07 19:37:49.436 [main] StepDef - setup executed
+[INFO ] 2024-12-07 19:37:49.439 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 19:37:53.439 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 19:37:55.145 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 19:37:58.058 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 19:38:00.356 [main] StepDef - click login executed
+[INFO ] 2024-12-07 23:18:05.872 [main] StepDef - setup executed
+[INFO ] 2024-12-07 23:18:05.954 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 23:18:10.595 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 23:18:13.302 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 23:18:16.523 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 23:18:22.234 [main] StepDef - click login executed
+[INFO ] 2024-12-07 23:18:26.971 [main] StepDef - setup executed
+[INFO ] 2024-12-07 23:18:26.976 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 23:18:31.056 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 23:18:33.589 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 23:18:36.813 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 23:18:42.003 [main] StepDef - click login executed
+[INFO ] 2024-12-07 23:18:46.614 [main] StepDef - setup executed
+[INFO ] 2024-12-07 23:18:46.617 [main] StepDef - browser launch executed
+[INFO ] 2024-12-07 23:18:51.404 [main] StepDef - open url  executed
+[INFO ] 2024-12-07 23:18:54.002 [main] StepDef - click signup executed
+[INFO ] 2024-12-07 23:18:57.112 [main] StepDef - email and password  executed
+[INFO ] 2024-12-07 23:18:59.384 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:04:22.334 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:04:22.446 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:04:27.565 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:04:30.318 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:04:34.492 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:04:41.473 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:04:47.963 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:04:47.967 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:04:54.153 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:05:06.070 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:05:09.985 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:05:58.889 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:06:10.822 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:06:10.831 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:06:57.597 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:07:01.146 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:07:04.688 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:07:12.143 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:12:07.063 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:12:07.155 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:12:11.640 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:12:15.009 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:12:18.540 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:12:25.395 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:12:33.452 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:12:33.456 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:12:38.188 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:12:40.688 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:12:44.242 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:12:50.341 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:12:56.236 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:12:56.243 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:13:00.284 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:13:02.952 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:13:06.369 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:13:12.505 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:18:32.891 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:18:33.011 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:18:38.104 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:18:39.395 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:18:44.591 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:18:51.362 [main] StepDef - click login executed
+[INFO ] 2024-12-08 00:23:14.387 [main] StepDef - setup executed
+[INFO ] 2024-12-08 00:23:14.563 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 00:23:20.815 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 00:23:24.462 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 00:23:28.360 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 00:23:34.360 [main] StepDef - click login executed
+[INFO ] 2024-12-08 19:21:49.195 [main] StepDef - setup executed
+[INFO ] 2024-12-08 19:21:49.290 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 19:21:53.001 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 19:21:55.114 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 19:21:57.858 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 19:22:03.373 [main] StepDef - click login executed
+[INFO ] 2024-12-08 19:25:53.349 [main] StepDef - setup executed
+[INFO ] 2024-12-08 19:25:53.438 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 19:25:56.416 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 19:25:58.348 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 19:26:01.477 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 19:26:07.291 [main] StepDef - click login executed
+[INFO ] 2024-12-08 19:37:24.975 [main] StepDef - setup executed
+[INFO ] 2024-12-08 19:37:25.033 [main] StepDef - browser launch executed
+[INFO ] 2024-12-08 19:37:28.423 [main] StepDef - open url  executed
+[INFO ] 2024-12-08 19:37:30.197 [main] StepDef - click signup executed
+[INFO ] 2024-12-08 19:37:33.064 [main] StepDef - email and password  executed
+[INFO ] 2024-12-08 19:37:39.488 [main] StepDef - click login executed
+[INFO ] 2025-01-04 17:16:34.685 [main] StepDef - setup executed
+[INFO ] 2025-01-04 17:16:34.784 [main] StepDef - browser launch executed
+[INFO ] 2025-01-04 17:16:37.818 [main] StepDef - open url  executed
+[INFO ] 2025-01-04 17:16:40.525 [main] StepDef - click signup executed
+[INFO ] 2025-01-04 17:16:43.855 [main] StepDef - email and password  executed
+[INFO ] 2025-01-04 17:16:49.190 [main] StepDef - click login executed
+[INFO ] 2025-01-04 17:19:12.157 [main] StepDef - setup executed
+[INFO ] 2025-01-04 17:19:12.264 [main] StepDef - browser launch executed
+[INFO ] 2025-01-04 17:19:18.393 [main] StepDef - open url  executed
+[INFO ] 2025-01-04 17:19:20.487 [main] StepDef - click signup executed
+[INFO ] 2025-01-04 17:19:23.908 [main] StepDef - email and password  executed
+[INFO ] 2025-01-04 17:19:28.953 [main] StepDef - click login executed
+[INFO ] 2025-01-04 17:23:02.130 [main] StepDef - setup executed
+[INFO ] 2025-01-04 17:23:02.198 [main] StepDef - browser launch executed
+[INFO ] 2025-01-04 17:23:07.968 [main] StepDef - open url  executed
+[INFO ] 2025-01-04 17:23:09.952 [main] StepDef - click signup executed
+[INFO ] 2025-01-04 17:23:13.430 [main] StepDef - email and password  executed
+[INFO ] 2025-01-04 17:23:22.669 [main] StepDef - click login executed

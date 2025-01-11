@@ -1,0 +1,3 @@
+PageObject\LoginPage.class
+PageObject\signuppage.class
+PageObject\productsearchpage.class
